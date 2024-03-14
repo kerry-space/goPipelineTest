@@ -13,6 +13,7 @@ func main() {
 	t.AddHeader("Name", "Title", "DEPARTMENT")
 	t.AddLine("Kerry", "Developer", "Enginner")
 	t.AddLine("Test", "Developer", "Whatever")
+	t.AddLine("Sandra", "Developer", "testtest")
 	t.Print()
 
 }
