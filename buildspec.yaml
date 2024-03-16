@@ -17,6 +17,9 @@ version: 0.2
 
         
 phases:
+  install:
+    commands:
+      - go get
   build:
     commands:
       - go build

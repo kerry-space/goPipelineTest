@@ -1,5 +1,5 @@
-module cloud_nativ_compute/test-go
+module systementor.se/awssampleapp
 
-go 1.21.6
+go 1.20
 
-require github.com/cheynewallace/tabby v1.1.1
+require github.com/cheynewallace/tabby v1.1.1 // indirect
